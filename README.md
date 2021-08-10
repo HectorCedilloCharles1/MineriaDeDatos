@@ -1,1 +1,2 @@
 # MineriaDeDatos
+Examen Diagnóstico
