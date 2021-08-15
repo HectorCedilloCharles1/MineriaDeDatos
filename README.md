@@ -7,4 +7,4 @@
 
 [Mapa Mental 1](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/MapaMental_1_%7B1851642%7D.pdf)
 
-[Ejercicio Base de Datos](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Bases%20de%20datos.pdf)
+[Ejercicio Base de Datos](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Bases%20de%20datos.pdf) 
