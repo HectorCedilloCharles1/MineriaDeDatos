@@ -9,4 +9,4 @@
 
 [Ejercicio Base de Datos](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Bases%20de%20datos.pdf) 
 
-[Ejercicios de Python(Básicos)](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Ejercicio_python.pdf)
+[Ejercicios de Python(Básicos)](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_Python_1851642.ipynb)
