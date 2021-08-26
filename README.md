@@ -11,4 +11,4 @@
 
 [Ejercicios de Python(Básicos)](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_Python_1851642.ipynb)
 
-[Práctica Limpieza de Datos Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Practica1-Equipo%206.ipynb)
+[Práctica Limpieza de Datos Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Practica1-Equipo%205.ipynb)
