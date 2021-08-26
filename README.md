@@ -10,3 +10,5 @@
 [Ejercicio Base de Datos](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Bases%20de%20datos.pdf) 
 
 [Ejercicios de Python(Básicos)](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_Python_1851642.ipynb)
+
+[Práctica Limpieza de Datos Equipo 11](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Practica1-Equipo%206.ipynb)
