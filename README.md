@@ -14,3 +14,6 @@
 [Práctica Limpieza de Datos Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo5.ipynb)
 
 [Avance 1 PIA Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance1_PIA_Equipo5.ipynb)
+
+## FASE 2
+[Presentacion Arboles de Decision](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Presentacion_%7BArboles%20de%20decision%7D_%7B5%7D.pdf)
