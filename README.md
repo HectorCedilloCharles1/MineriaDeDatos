@@ -18,4 +18,6 @@
 ## FASE 2
 [Presentacion Arboles de Decision](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Presentacion_%7BArboles%20de%20decision%7D_%7B5%7D.pdf)
 
+[Ejemplo Python Arboles de Decision](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_ArbolDecision_Equipo5.ipynb)
+
 [Preguntas de presentacion](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Preguntas%20equipo%205.pdf)
