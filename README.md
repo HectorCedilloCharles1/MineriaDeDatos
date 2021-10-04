@@ -22,4 +22,6 @@
 
 [Preguntas de presentacion](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Preguntas%20equipo%205.pdf)
 
+[Practica de Visualizacion](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Visualizacion_Equipo5.ipynb)
+
 [Avance 2 PIA Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance2_PIA_001_Equipo5.ipynb)
