@@ -21,3 +21,5 @@
 [Ejemplo Python Arboles de Decision](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_ArbolDecision_Equipo5.ipynb)
 
 [Preguntas de presentacion](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Preguntas%20equipo%205.pdf)
+
+[Avance 2 PIA Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance2_PIA_001_Equipo5.ipynb)
